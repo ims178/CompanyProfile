@@ -1,0 +1,18 @@
+[1mdiff --cc contact-us.html[m
+[1mindex 6658e53,7896b67..0000000[m
+[1m--- a/contact-us.html[m
+[1m+++ b/contact-us.html[m
+[36m@@@ -11,8 -11,8 +11,13 @@@[m
+      <p>PT MENCARI CINTA SEJATI</p>[m
+      <div>ini halaman contact us</div>[m
+  [m
+[32m++<<<<<<< HEAD[m
+[32m +    <div>ini adalah penjelasan</div>[m
+[32m +[m
+[32m++=======[m
+[32m+ <form action=""></form>[m
+[32m+     [m
+[32m++>>>>>>> f720ead3a2c069623849cc1c984362d97b227f9f[m
+      <footer>ini adalah bagian footer, footernya gini dulu aja</footer>[m
+  </body>[m
+  </html>[m
